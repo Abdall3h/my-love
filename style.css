@@ -28,17 +28,6 @@ body {
 }
 
 .img1 {
-	position: absolute;
-	right: 0;
-	top: 25PX;
-	background: url(2024_04_01_14_23_IMG_6328.JPG);
-	background-size: cover;
-	width: 400px;
-	height: 500px;
-	box-shadow: 0 5px 15px rgb(11, 137, 137);
-}
-
-.img2 {
 	left: 0;
 	top: 20%;
 	position: absolute;
@@ -47,6 +36,18 @@ body {
 	width: 350px;
 	height: 400px;
 	box-shadow: 0 5px 15px rgb(6, 143, 167);
+}
+
+.img2 {
+	position: absolute;
+	right: 0;
+	top: 25PX;
+	background: url(2024_04_01_14_23_IMG_6328.JPG);
+	background-size: cover;
+	width: 400px;
+	height: 500px;
+	box-shadow: 0 5px 15px rgb(11, 137, 137);
+	
 	
 }
 
