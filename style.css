@@ -28,17 +28,6 @@ body {
 }
 
 .img1 {
-	left: 0;
-	top: 20%;
-	position: absolute;
-	background-image: url(441555164_1127807911925380_1659894470953001575_n.png);
-	background-size: cover;
-	width: 350px;
-	height: 400px;
-	box-shadow: 0 5px 15px rgb(6, 143, 167);
-}
-
-.img2 {
 	position: absolute;
 	right: 0;
 	top: 50PX;
@@ -47,6 +36,18 @@ body {
 	width: 400px;
 	height: 500px;
 	box-shadow: 0 5px 15px rgb(11, 137, 137);
+}
+
+.img2 {
+	left: 0;
+	top: 20%;
+	position: absolute;
+	background-image: url(441555164_1127807911925380_1659894470953001575_n.png);
+	background-size: cover;
+	width: 350px;
+	height: 400px;
+	box-shadow: 0 5px 15px rgb(6, 143, 167);
+	
 }
 
 h1 {
